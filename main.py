@@ -10,6 +10,9 @@ from aiogram import Bot, Dispatcher, F
 from aiogram.filters import Command
 from aiogram.types import Message, CallbackQuery, LabeledPrice, PreCheckoutQuery
 from aiogram.utils.keyboard import InlineKeyboardBuilder
+from keep_alive import keep_alive
+
+keep_alive()
 
 
 # =========================================================
