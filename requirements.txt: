@@ -1,2 +1,1 @@
-aiogram
-aiosqlite
+aiogram==3.22.0
