@@ -1,4 +1,4 @@
 aiogram==3.22.0
 aiohttp
 aiosqlite
-Flask
+flask
